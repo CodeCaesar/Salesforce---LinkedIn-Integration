@@ -7,9 +7,9 @@ public class LinkedlnoAuthController{
     public String urlToSharedPost { get; set; }
     public String sharedInformation { get; set; }
     
-    public Final String consumerKey = '75lfjr8ejejejy';
-    public Final String consumerSecret ='V2VzKOrlFLYJOSM6';
-    public Final String redirect_URI = 'https://dreamhouse-a-dev-ed--c.ap5.visual.force.com/apex/LinkedlnoAuth';
+    public Final String consumerKey = '862kh6mbshh11u';
+    public Final String consumerSecret ='AJZfgyjAXEmeFcj1';
+    public Final String redirect_URI = 'https://codecaesar-dev-ed.lightning.force.com/apex/LinkedlnoAuth';
     public String linkedln_Scope = 'r_fullprofile%20r_emailaddress%20r_network%20r_compliance';
     public Final String linkedln_AuthUrl = 'https://www.linkedin.com/oauth/v2/authorization?';
     public Final String accessToken_Endpoint = 'https://www.linkedin.com/oauth/v2/accessToken';
