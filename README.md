@@ -9,3 +9,7 @@ Added the below functionality:
 1 - Replaced the Custom Setting with the Custom object so that Access Token can be saved.
 2 - Added a new method which is responsible for sharing the Post to LinkedIn Profile
 
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
