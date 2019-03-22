@@ -72,7 +72,6 @@
         <type>Number</type>
         <unique>false</unique>
     </fields>
-    <gender>Feminine</gender>
     <label>LinkedIn Information</label>
     <listViews>
         <fullName>All</fullName>
